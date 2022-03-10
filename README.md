@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PotatoMan
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Js,html,Css
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Crypticgalaxy66@gmail.com or discord: Potato Man#0760
