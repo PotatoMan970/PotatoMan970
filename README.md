@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PotatoMan
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Js,html,Css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me CrypticGalaxy66@gmail.com
+- 📫 How to reach me jacob@pengwinning.com
