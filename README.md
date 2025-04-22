@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PotatoMan
+- 👋 Hi, I’m Jacob!
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Js,html,Css
 - 📫 How to reach me jacob@pengwinning.com
